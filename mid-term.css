@@ -1,0 +1,41 @@
+html, body{
+  margin:0;
+
+}
+header{
+  display:block;
+  height:50px;
+  background-color:yellow;
+  font-famliy:impact;
+}
+h1{
+  margin:0;
+  text-align:center;
+}
+
+nav{
+  display:inline-block;
+  height:2000px;
+  background-color:orange;
+  font-family:noto sans;
+}
+section{
+  position:absolute;
+  display:inline-block;
+  height:2000px;
+  background-image:url("face.jpg");
+  background-size:130%;
+  font-family:serif;
+}
+
+a{
+  text-decoration:none;
+}
+
+p{
+  font-size:1em;
+
+}
+.hidden{
+  overflow:hidden;
+}
